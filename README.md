@@ -13,7 +13,7 @@ This repository implements a **Retrieval-Augmented Generation (RAG)** pipeline u
 Clone the repository and install dependencies:
 
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone git@github.com:ompawar2526mb/Retrival-Agumented-Genreation-RAG-.git
 cd your-repo
 pip install -r requirements.txt
 ```
