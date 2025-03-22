@@ -78,11 +78,7 @@ print(response["choices"][0]["text"].strip())
 
 ## Contributing
 Pull requests are welcome! Please follow best practices and open an issue before making major changes.
-
-## License
-This project is licensed under the MIT License.
-
 ---
 
-**Author:** Your Name | [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+**Author:** Om Pawar | [LinkedIn](linkedin.com/in/om-pawar25)
 
