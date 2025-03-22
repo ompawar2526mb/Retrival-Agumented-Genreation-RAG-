@@ -1,5 +1,3 @@
-# Retrival-Agumented-Genreation-RAG-
-
 # Retrieval-Augmented Generation (RAG) with OpenAI
 
 ## Overview
